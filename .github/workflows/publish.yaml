@@ -54,9 +54,10 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-pages-artifact@v4
       with:
-        path: ./public
+        name: my-artifact-${{ matrix.runs-on }}
+        path: file-${{ matrix.runs-on }}.txt
 
   # Deploy website to GitHub Pages hosting
   deploy:
