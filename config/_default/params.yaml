@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Living with Assistive and Interactive Robots (LAIR) Lab"
 
 # Site footer
 footer:
