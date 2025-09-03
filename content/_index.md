@@ -8,14 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Living with Assistive and Interactive Robots (LAIR) Lab
       image:
-        filename: welcome.jpg
+        filename: LAIRLabLogo.png
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        # <br>
+        The Living with Assistive and Interactive Robots (LAIR) Lab is located at Concordia University in Montreal, Canada and was founded in 2024.
   
   - block: collection
     content:
