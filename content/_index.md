@@ -7,13 +7,14 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Living with Assistive and Interactive Robots (LAIR) Lab
+      title: 
       image:
         filename: LAIRLabLogo.png
       text: |
         # <br>
-        The Living with Assistive and Interactive Robots (LAIR) Lab is located at Concordia University in Montreal, Canada and was founded in August 2024.
+        The **Living with Assistive and Interactive Robots (LAIR) Lab** is located at Concordia University in Montreal, Canada and was founded in August 2024. The lab focuses research in physical-social human-robot interaction (psHRI).
+        
+        (Note: This site is a work in progress).
 #################################
   - block: slider
     content:
@@ -43,7 +44,7 @@ sections:
 
       - title: World-Class Semiconductor Lab
         content: 'Just opened last month!'
-        align: right
+        align: center
         background:
           image:
             filename: welcome.jpg

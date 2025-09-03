@@ -1,6 +1,7 @@
 ---
 # Display name
 title: firstname_lastname
+start_date: 2025-05-24
 
 # Full name (for SEO)
 first_name: firstname_lastname

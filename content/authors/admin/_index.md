@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Chris Yee WONG
+start_date: 2024-08-01
 
 # Full Name (for SEO)
 first_name: Christopher Yee

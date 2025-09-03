@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Fake Person
+title: Fake Grad
+start_date: 2025-10-24
 
 # Full name (for SEO)
 first_name: The
