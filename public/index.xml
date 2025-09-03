@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wowchemy Research Group</title>
+    <title>Living with Assistive and Interactive Robots (LAIR) Lab</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Wowchemy Research Group</description>
+    <description>Living with Assistive and Interactive Robots (LAIR) Lab</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
-      <title>Wowchemy Research Group</title>
+      <url>http://localhost:1313/media/icon_hu6536440024406128664.png</url>
+      <title>Living with Assistive and Interactive Robots (LAIR) Lab</title>
       <link>http://localhost:1313/</link>
     </image>
     

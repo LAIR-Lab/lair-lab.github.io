@@ -52,19 +52,19 @@ social:
     label: View my ResearchGate Profile
     link: https://www.researchgate.net/profile/Christopher-Yee-Wong
     display:
-      header: true
+      header: false
   - icon: linkedin
     icon_pack: fab
     label: View my LinkedIn Profile
     link: https://www.linkedin.com/in/chrisyeewong/
     display:
-      header: true
+      header: false
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     label: View my Google Scholar publications
     link: https://scholar.google.ca/citations?hl=en&user=rddmHA4AAAAJ&view_op=list_works&sortby=pubdate
     display:
-      header: true
+      header: false
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact' 
@@ -73,7 +73,7 @@ social:
     link: https://twitter.com/chrisywong1
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: github
     icon_pack: fab
     label: See my GitHub repositories
