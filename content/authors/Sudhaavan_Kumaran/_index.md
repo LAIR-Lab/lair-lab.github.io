@@ -36,7 +36,7 @@ education:
   courses:
     - course: Mechatronics (B.Eng.)
       institution: Berliner Hochschule für Technik
-      year: 2021
+      year: 2026
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
