@@ -34,8 +34,8 @@ bio:
 
 education:
   courses:
-    - course: Mechatronics (B.Eng.)
-      institution: Berliner Hochschule für Technik
+    - course: B.Eng. in Mechatronics
+      institution: Berliner Hochschule für Technik (Berlin, Germany)
       year: 2026
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
