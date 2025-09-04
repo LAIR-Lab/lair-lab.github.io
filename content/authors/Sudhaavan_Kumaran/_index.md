@@ -21,7 +21,7 @@ role: Mitacs Globalink Intern (Summer 2025)
 organizations:
   - name: Concordia University (Montreal, Canada)
     url: https://www.concordia.ca/
-  - name: Berliner Hochshcule für Technik (Berlin, Germany)
+  - name: Berliner Hochschule für Technik (Berlin, Germany)
     url: https://www.bht-berlin.de/en/
 
 # Short bio (displayed in user profile at end of posts)
