@@ -52,6 +52,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:sudhaavan@gmail.com"
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Sudhaavan-Kumaran
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
