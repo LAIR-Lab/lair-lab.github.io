@@ -109,4 +109,4 @@ user_groups:
   - Principal Investigator
 ---
 
-**Chris Yee Wong** is an [**assistant professor**](https://www.concordia.ca/faculty/christopheryee-wong.html) in the Department of Mechanical, Industrial and Aerospace Engineering (MIAE) and the **director** of the *Living with Assistive and Interactive Robots (LAIR) Lab* at **Concordia University** in Montreal, Canada. You can find more information on his [**personal webpage**](https://chrisywong.github.io/).
+**Chris Yee Wong** is an [**assistant professor**](https://www.concordia.ca/faculty/christopheryee-wong.html) in the Department of Mechanical, Industrial and Aerospace Engineering (MIAE) and the **director** of the *Living with Assistive and Interactive Robots (LAIR) Lab* at [**Concordia University**](https://www.concordia.ca) in Montreal, Canada. You can find more information on his [**personal webpage**](https://chrisywong.github.io/).

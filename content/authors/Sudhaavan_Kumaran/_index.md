@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Mitacs Globalink Intern (Summer 2025)
+role: Mitacs Globalink Intern (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -79,7 +79,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 
 **Sudhaavan Kumaran** is a recipient of the Mitacs Globalink 2025 award and is currently undertaking a research internship in the _Living with Assistive and Interactive Robots (LAIR) Lab_ at **Concordia University**, Montreal, Canada.
