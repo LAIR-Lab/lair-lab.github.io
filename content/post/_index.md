@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Latest News (WIP)
 
 # Listing view
 view: compact

@@ -5,58 +5,105 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+#################################
+  - block: markdown
     content:
       title: 
-      image:
-        filename: LAIRLabLogo.png
-      text: |
-        # <br>
-        The **Living with Assistive and Interactive Robots (LAIR) Lab** is located at Concordia University in Montreal, Canada and was founded in August 2024. The lab focuses research in physical-social human-robot interaction (psHRI).
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: LAIRLabLogo.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: contain #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          text_color_light: true
+      spacing:
+        padding: ['300px', '0', '0px', '0']
+      # css_class: fit
+#################################
+  - block: markdown
+    content:
+      # title: Living with Assistive and Interactive Robots (LAIR) Lab
+      text: |-
+        The **Living with Assistive and Interactive Robots (LAIR) Lab** is located at [Concordia University](https://www.concordia.ca/) in Montreal, Canada and is led by [Prof. Christopher Yee Wong](./author/chris-yee-wong/). The lab focuses research in physical-social human-robot interaction (psHRI).
         
+        For prospective students, please see the [Contact](./contact/) section.
+
         (Note: This site is a work in progress).
+    design:
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["20px", "0", "50px", "0"]
+#################################
+  # - block: hero
+  #   content:
+  #     title: 
+  #     image:
+  #       filename: LAIRLabLogo.png
+  #     text: |-
+  #       # <br>
+  #       The **Living with Assistive and Interactive Robots (LAIR) Lab** is located at [Concordia University](https://www.concordia.ca/) in Montreal, Canada and is led by [Prof. Christopher Yee Wong](https://lair-lab.github.io/author/chris-yee-wong/). The lab focuses research in physical-social human-robot interaction (psHRI).
+        
+  #       For prospective students, please see the [Contact](./contact/) section.
+
+  #       (Note: This site is a work in progress).
 #################################
   - block: slider
     content:
       slides:
 
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: '' # Welcome to the LAIR Lab!
+        content: Members of the LAIR Lab
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: 'LAIR Lab Group Photo.jpg'
             filters:
               brightness: 0.7
-          position: right
+          position: center
           color: '#666'
+        link:
+          icon: user
+          icon_pack: fas
+          text: Check out the team!
+          url: ../people/
 
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: 
+        content: 'Physical-Social Human-Robot Interaction Research'
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: projectsshowcase.png
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: center
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
         link:
-          icon: graduation-cap
+          icon: robot
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Check out our research!
+          url: ../projects/
+
+      # - title: World-Class Semiconductor Lab
+      #   content: 'Just opened last month!'
+      #   align: center
+      #   background:
+      #     image:
+      #       filename: welcome.jpg
+      #       filters:
+      #         brightness: 0.5
+      #     position: center
+      #     color: '#333'
+      #   link:
+      #     icon: graduation-cap
+      #     icon_pack: fas
+      #     text: Join Us
+      #     url: ../contact/
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
@@ -67,24 +114,37 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 4000
 #################################
-  - block: collection
-    content:
-      title: Latest News
-      subtitle: from the LAIR Lab
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '2'
+#   - block: collection
+#     content:
+#       title: Latest News
+#       subtitle: from the LAIR Lab
+#       text:
+#       count: 5
+#       filters:
+#         author: ''
+#         category: ''
+#         exclude_featured: false
+#         publication_type: ''
+#         tag: ''
+#       offset: 0
+#       order: desc
+#       page_type: post
+#     design:
+#       view: card
+#       columns: '2'
+# #################################
+#   - block: collection
+#     content:
+#       title: Latest Publications
+#       text: ""
+#       count: 5
+#       filters:
+#         folders:
+#           - publication
+#         publication_type: 'article'
+#     design:
+#       view: citation
+#       columns: '1'
 #################################
   # - block: markdown
   #   content:
@@ -106,25 +166,12 @@ sections:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
 #################################
-  - block: collection
-    content:
-      title: Latest Publications
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-#################################
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle:
+  #     text: |
+  #       {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+  #   design:
+  #     columns: '1'
 ---
