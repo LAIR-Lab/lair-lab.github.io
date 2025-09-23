@@ -82,6 +82,6 @@ user_groups:
   - Alumni
 ---
 
-**Sudhaavan Kumaran** is a recipient of the Mitacs Globalink 2025 award and is currently undertaking a research internship in the _Living with Assistive and Interactive Robots (LAIR) Lab_ at **Concordia University**, Montreal, Canada.
+**Sudhaavan Kumaran** was a recipient of the Mitacs Globalink 2025 award, through which he completed a research internship in the _Living with Assistive and Interactive Robots (LAIR) Lab_ at **Concordia University**, Montreal, Canada.
 
-His research focuses on the project **Variable Stiffness Robotic Fingers Using Bistable Structures**, which builds upon his initial work, **Design & Integration of Skin-Based Tactile Sensors for Human-Robot Interaction (HRI)**. Sudhaavan’s research aims to advance the development of robotic systems for improved human-robot interaction.
+His research focused on the project **Variable Stiffness Robotic Fingers Using Bistable Structures**, building upon his initial work on **Design & Integration of Skin-Based Tactile Sensors for Human-Robot Interaction (HRI)**. This research aimed to advance the development of robotic systems for improved human-robot interaction.
