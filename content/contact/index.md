@@ -10,7 +10,9 @@ sections:
       title: Prospective Students
   #     subtitle: ''
       text: |
-        If you are interested in joining the LAIR Lab, please fill out the following form: https://forms.gle/H4XP71DNuWq7Y6fy9
+        Students interested in joining the Living with Assistive and Interactive Robots (LAIR) Lab should fill out the following form: https://forms.gle/H4XP71DNuWq7Y6fy9
+        
+        Prior to filling out the form, make sure that you know what you are looking for, specific topics that you are interested in, and how they relate to my work.
 
   # ### Postdoctoral fellow:
 
