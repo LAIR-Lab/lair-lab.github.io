@@ -1,0 +1,8 @@
+https://github.com/wowchemy/hugo-academic-cli
+
+
+academic import --bibtex ./CYWRefs.bib --publication-dir ./content/publication/
+
+
+
+C:\Users\ChrisW\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\academic.exe import cywpublications.bib content/publication/ --overwrite

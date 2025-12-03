@@ -1,16 +1,41 @@
 ---
-title: Research
-date: 2022-10-24
-
+title: 'Research Projects'
+date: 2025-05-19
 type: landing
 
+design:
+  # Section spacing
+  spacing: '2rem'
+
+# Page sections
 sections:
+  # - block: collection
+  #   content:
+  #     title: Research Projects
+  #     text: #Here are a selection of research projects that I have worked on over the years.
+  #     filters:
+  #       folders:
+  #         - project
+  #     count: 50
+
+  #     # buttons:
+  #     #   - name: All
+  #     #     tag: '*'
+  #     #   - name: Active Projects
+  #     #     tag: 'active'
+  #     #   - name: Past Projects
+  #     #     tag: old
+  #   design:
+  #     view: article-grid
+  #     fill_image: false
+  #     columns: 4
+      
   - block: portfolio
     content:
       title: Research Projects
       filters:
         folders:
-          - projects
+          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
