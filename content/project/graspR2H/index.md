@@ -1,6 +1,6 @@
 ---
-title: Robot-to-Human (R2H) Grasping (2023-Present) 
-summary: How and where a robot grasps a human may elicit different emotional responses from the human. What are the key factors and how can robots deliberately exploit these emotional responses to achieve a desired reaction?
+title: Robot-to-Human (R2H) Grasping 
+summary: (2023-Present) How and where a robot grasps a human may elicit different emotional responses from the human. What are the key factors and how can robots deliberately exploit these emotional responses to achieve a desired reaction?
 
 tags:
   - psHRI
