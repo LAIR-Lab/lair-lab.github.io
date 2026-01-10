@@ -1,6 +1,6 @@
 ---
-title: Variable Stiffness Robotic Finger (2025-Present) 
-summary: Variable stiffness robotic finger using bistable structures
+title: Variable Stiffness Robotic Finger 
+summary: (2025-Present) Develpoment of a robotic finger capable of modifying the finger stiffness by using bistable mechanical structures 
 
 tags:
   - bistable
