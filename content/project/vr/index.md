@@ -1,6 +1,6 @@
 ---
-title: Virtual reality and psHRI (2025-Present)
-summary: Virtual reality is a powerful tool to achieve contextually-rich interactions while maintaining a low-cost environment for studying psHRI. 
+title: Virtual reality and psHRI
+summary: (2025-Present) Virtual reality is a powerful tool to achieve contextually-rich interactions while maintaining a low-cost environment for studying psHRI. 
 
 tags:
   - VR
