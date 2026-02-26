@@ -23,21 +23,23 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on adaptive robotics that respond to human behavior and physiological signals.
+bio: My research focuses on generlaizing robotics to a variety of tasks including iteracting with humans.
 
 interests:
   - Robotics and Human-Robot Interaction (HRI)
+  - Vision-Language Action Models (VLA)
   - Artificial Intelligence
   - Computer Vision
+  - Service Robots
 
 education:
   courses:
-    - course: MASc. in Mechanical Engineering
+    - course: PhD in Mechanical Engineering
       institution: Concordia University
-      year: May 2025 - Apr 2027
-    - course: BSc in Computer Science
-      institution: Amirkabir University of Technology
-      year: Sept 2012 - Apr 2017
+      year: Jan 2026 - Dec 2029
+    - course: BSc in Mechattonics and Robotics Engineering
+      institution: Egypt-Japan University of Science and Technology
+      year: Oct 2020 - March 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mahsa.hasheminejad@mail.concordia.ca'
+    link: 'abdallah.hassan@mail.concordia.ca'
   - icon: google-scholar
     icon_pack: ai
-    link: https:https://scholar.google.ca/citations?user=RPghcP4AAAAJ&hl=en
+    link: https://scholar.google.ca/citations?user=RPghcP4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/LAIR-Lab
+    link: https://github.com/AbdallahAmrBeedo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mahsahasheminejad/
+    link: https://www.linkedin.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +73,4 @@ user_groups:
   - Graduate Students
 ---
 
-Mahsa is a Master’s student in Mechanical Engineering, focusing on Human–Robot Interaction. She holds an undergraduate degree in Computer Science and has over six years of industry experience as an ML and AI engineer. Her research, supervised by Prof. Wong and Prof. Ayub, explores robotics, computer vision, and machine learning, with a focus on adapting robots to human behavior and physiological signals for efficient collaboration.
+Abdallah is a PhD student in Mechanical Engineering at Concordia University, supervised by Dr. Wong and Prof. Xie. He holds a B.Sc. in Mechatronics and Robotics Engineering from Egypt-Japan University of Science and Technology. His research focuses on Vision–Language–Action (VLA) models for Human–Robot Interaction, aiming to help robots better understand people and respond naturally during collaboration. His interests include robotics and HRI, artificial intelligence, computer vision, and service robots.
