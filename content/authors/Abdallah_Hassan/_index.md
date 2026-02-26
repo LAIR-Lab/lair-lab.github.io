@@ -48,10 +48,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'abdallah.hassan@mail.concordia.ca'
+    link: mailto:abdallah.hassan@mail.concordia.ca
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.ca/citations?user=RPghcP4AAAAJ&hl=en
+    link: https://scholar.google.ca/citations?user=vwqUoGEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/AbdallahAmrBeedo
