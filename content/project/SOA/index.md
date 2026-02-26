@@ -1,6 +1,6 @@
 ---
-title: Sensor Observability Analysis (2022-Present) 
-summary: Sensor Observability Analysis aims to quantify the quality of sensor observations of task-space quantities based on the robot configuration.
+title: Sensor Observability Analysis 
+summary: (2022-Present) Sensor Observability Analysis aims to quantify the quality of sensor observations of task-space quantities based on the robot configuration.
 
 tags:
   - SOA
