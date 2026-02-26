@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Undergraduate Student (2025-2026)
 
 # Organizations/Affiliations
 organizations:
