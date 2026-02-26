@@ -71,7 +71,6 @@ email: ''
           # - Visitors
           # - Alumni
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 
-This is a placeholder profile.

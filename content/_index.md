@@ -53,7 +53,7 @@ sections:
 
   #       (Note: This site is a work in progress).
 #################################
-  - block: slider
+  - block: slider #https://bootstrap.hugoblox.com/blocks/slider/
     content:
       slides:
 
@@ -112,26 +112,26 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 4000
+      interval: 3000
 #################################
-#   - block: collection
-#     content:
-#       title: Latest News
-#       subtitle: from the LAIR Lab
-#       text:
-#       count: 5
-#       filters:
-#         author: ''
-#         category: ''
-#         exclude_featured: false
-#         publication_type: ''
-#         tag: ''
-#       offset: 0
-#       order: desc
-#       page_type: post
-#     design:
-#       view: card
-#       columns: '2'
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle: from the LAIR Lab
+  #     text:
+  #     count: 5
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: post
+  #   design:
+  #     view: card
+  #     columns: '2'
 # #################################
 #   - block: collection
 #     content:
