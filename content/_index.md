@@ -57,21 +57,21 @@ sections:
     content:
       slides:
 
-      - title: '' # Welcome to the LAIR Lab!
-        content: Members of the LAIR Lab
-        align: center
-        background:
-          image:
-            filename: 'LAIR Lab Group Photo.jpg'
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-        link:
-          icon: user
-          icon_pack: fas
-          text: Check out the team!
-          url: ../people/
+      # - title: '' # Welcome to the LAIR Lab!
+      #   content: Members of the LAIR Lab
+      #   align: center
+      #   background:
+      #     image:
+      #       filename: 'LAIR Lab Group Photo.jpg'
+      #       filters:
+      #         brightness: 0.7
+      #     position: center
+      #     color: '#666'
+      #   link:
+      #     icon: user
+      #     icon_pack: fas
+      #     text: Check out the team!
+      #     url: ../people/
 
       - title: 
         content: 'Physical-Social Human-Robot Interaction Research'
@@ -105,6 +105,35 @@ sections:
       #     text: Join Us
       #     url: ../contact/
 
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '500px'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2500
+#################################
+  - block: slider #https://bootstrap.hugoblox.com/blocks/slider/
+    content:
+      slides:
+
+      - title: '' # Welcome to the LAIR Lab!
+        content: Members of the LAIR Lab
+        align: center
+        background:
+          image:
+            filename: 'LAIR Lab Group Photo.jpg'
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#666'
+        link:
+          icon: user
+          icon_pack: fas
+          text: Check out the team!
+          url: ../people/
+          
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '500px'
