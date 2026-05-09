@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Next-Gen Scholar 2026
 
 # Organizations/Affiliations
 organizations:

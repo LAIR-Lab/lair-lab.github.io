@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Nathanael McCooeye
-start_date: 2025-06-24
+title: Arya Pangging
+start_date: 2026-05-06
 
 # Full name (for SEO)
-first_name: Nathanael
-last_name: McCooeye
+first_name: Arya
+last_name: Pangging
 
 # Username (this should match the folder name)
 authors:
-  - Nathanael_McCooeye
+  - Arya_Pangging
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Intern (2025-2026)
+role: Mitacs Globalink Intern (2026)
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Robotics
@@ -71,6 +71,7 @@ email: ''
           # - Visitors
           # - Alumni
 user_groups:
-  - Alumni
+  - Undergraduate Students
 ---
 
+This is a placeholder profile.

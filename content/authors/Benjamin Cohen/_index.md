@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student (NSERC USRA 2025)
+role: NSERC USRA 2025
 
 # Organizations/Affiliations
 organizations:
