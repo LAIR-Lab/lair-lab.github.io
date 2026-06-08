@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jonathan_Sztainberg
+title: Jonathan Sztainberg
 start_date: 2025-05-24
 
 # Full name (for SEO)
