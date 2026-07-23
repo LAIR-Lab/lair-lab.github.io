@@ -36,8 +36,8 @@ education:
   courses:
     - course: PhD in Mechanical Engineering
       institution: Concordia University
-      year: Jan 2026 - Dec 2029
-    - course: BSc in Mechattonics and Robotics Engineering
+      year: Jan 2026 - Present
+    - course: BSc in Mechatronics and Robotics Engineering
       institution: Egypt-Japan University of Science and Technology
       year: Oct 2020 - March 2025
 
