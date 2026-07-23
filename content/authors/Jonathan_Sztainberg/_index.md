@@ -72,4 +72,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-# INSERT A DESCRIPTION OF YOURSELF HERE
+% INSERT A DESCRIPTION OF YOURSELF HERE
