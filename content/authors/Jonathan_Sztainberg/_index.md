@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: NSERC USRA Intern (Summer 2026)
+role: NSERC USRA (2026)
 
 # Organizations/Affiliations
 organizations:
