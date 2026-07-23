@@ -34,12 +34,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Mechanical Engineering
+    - course: MASc in Mechanical Engineering
       institution: Concordia University
-      year: Jan 2026 - Dec 2029
-    - course: BSc in Mechattonics and Robotics Engineering
-      institution: Egypt-Japan University of Science and Technology
-      year: Oct 2020 - March 2025
+      year: May 2026 - Present
+    - course: BEng in Mechanical Engineering
+      institution: California Institute of Technology
+      year: --Insert Date--
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
