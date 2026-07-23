@@ -23,13 +23,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on generlaizing robotics to a variety of tasks including iteracting with humans.
+bio: My research focuses on touch feedback for humans controlling robots.
 
 interests:
-  - Robotics and Human-Robot Interaction (HRI)
-  - Vision-Language Action Models (VLA)
-  - Artificial Intelligence
-  - Computer Vision
+- Robotics and Human-Robot Interaction (HRI)
+  - Haptic Feedback and Touch Sensing
   - Service Robots
 
 education:
@@ -37,9 +35,9 @@ education:
     - course: MASc in Mechanical Engineering
       institution: Concordia University
       year: May 2026 - Present
-    - course: BEng in Mechanical Engineering
+    - course: BSc in Mechanical Engineering
       institution: California Institute of Technology
-      year: --Insert Date--
+      year: Sept 2011 - June 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +46,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:abdallah.hassan@mail.concordia.ca
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.ca/citations?user=vwqUoGEAAAAJ&hl=en
+    link: mailto:michael.jenson@mail.concordia.ca
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.ca/citations?user=vwqUoGEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/AbdallahAmrBeedo
+    link: https://github.com/n1tric
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/michael-jenson/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,4 +71,4 @@ user_groups:
   - Graduate Students
 ---
 
-PLACEHOLDER
+Michael is a Master's student in Mechanical Engineering, focusing on touch feedback for humans interacting with robots. He holds a B.Sc in Mechanical Engineering from Caltech, and has 8 years of professional experience designing automated systems across the aerospace, biomedical, and entertainment industries. His research, supervised by Prof. Wong, aims to expand the realm of haptic feedback available for human operators of robotic systems.
